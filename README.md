@@ -2,6 +2,11 @@
 
 一个用 `PyTorch` 从零手搓的字符级 Transformer / MiniGPT 项目，用来理解大模型的核心原理。
 
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white)
+![Model](https://img.shields.io/badge/Model-Character--Level%20Transformer-0F172A)
+![Built](https://img.shields.io/badge/Built-From%20Scratch-16A34A)
+
 ## 项目简介
 
 这个项目不依赖现成的大模型封装，而是直接从底层把一个最小可运行的语言模型流程搭出来，包括：
